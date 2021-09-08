@@ -12,7 +12,7 @@ function App() {
      <header>
        <h1>Ed's Todo List</h1>
      </header>
-     
+
      <Form 
      inputText ={inputText}  
      todos ={todos} 
@@ -20,7 +20,7 @@ function App() {
      setInputText={setInputText}
      />
 
-     <TodoList todos ={todos}/> 
+     <TodoList setTodos={setTodos} todos ={todos}/> 
     </div>
   );
 }
