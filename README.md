@@ -10,6 +10,9 @@ Todo App
 
 Todo App is an app that allows users to add , edit and delete tasks they want to work on,also mark tasks as complete without deleting them.
 
+## Website url
+https://eddah-todo-app.herokuapp.com/
+
 ### Getting Started with Create React App
 
 
